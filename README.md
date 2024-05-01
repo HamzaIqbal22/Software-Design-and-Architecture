@@ -18,6 +18,6 @@ In-depth exploration of critical aspects related to the implementation of softwa
 ### Member View
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/65f8875b-bd4a-45fe-9077-15760b9c7323)
 
-### File View
+### UI and Database View
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/df3ab2e1-0188-4a3f-87ca-00b533659c38)
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/3570c3d1-0f69-4019-87c5-b359f5fa1778)
