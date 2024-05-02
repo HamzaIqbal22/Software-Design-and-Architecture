@@ -9,6 +9,18 @@ In-depth exploration of critical aspects related to the implementation of softwa
 
 ## Project (Online E-Bookstore System) Overview
 
+### Use Case Diagram
+![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/c03761bc-1620-4ca2-a793-9d11404e85d8)
+
+### ER Diagram
+![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/1b6d05f2-38fc-42b0-8234-26e463027ae7)
+
+### Sequence Diagram for Member adding Book
+![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/827da269-dd5f-4a5d-b0af-ecbb01e376d3)
+
+### Sequence Diagram for Admin adding Book
+![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/606aa74d-d106-465c-83ea-8f63fad0e154)
+
 ### Login View
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/19f26908-131f-4ea6-83e9-3a6e8cded5de)
 
