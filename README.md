@@ -41,7 +41,7 @@ Administrators: Facilitators who manage the overall functioning of the e-booksto
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/df3ab2e1-0188-4a3f-87ca-00b533659c38)
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/3570c3d1-0f69-4019-87c5-b359f5fa1778)
 
-Conclusion
+### Conclusion
 The project is implemented using various technologies and databases tailored to each microservice's functionality. For instance, the login microservice incorporates GUI management and authentication, while the buy and add book microservices handle book purchasing and addition, respectively, using dedicated databases for each task.
 
 Overall, the project aims to create a user-friendly and efficient online e-bookstore platform, enhancing access to literature and promoting a culture of reading globally.
