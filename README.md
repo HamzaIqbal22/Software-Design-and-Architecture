@@ -12,6 +12,13 @@ In-depth exploration of critical aspects related to the implementation of softwa
 ### Use Case Diagram
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/c03761bc-1620-4ca2-a793-9d11404e85d8)
 
+Key Actors:
+Members: These are the main customers who can browse and purchase books from the e-bookstore. They have access to various functionalities, including searching for books by different
+criteria and making purchases.
+Guests: Visitors who can view catalogues and services but need to register as members to make purchases.
+Sellers: Individuals who upload and sell books on the platform. They have the ability to manage their uploaded books and receive payments for successful sales.
+Administrators: Facilitators who manage the overall functioning of the e-bookstore, including managing books, members, and sellers, ensuring smooth transactions, and maintaining the database.
+
 ### ER Diagram
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/1b6d05f2-38fc-42b0-8234-26e463027ae7)
 
@@ -33,3 +40,8 @@ In-depth exploration of critical aspects related to the implementation of softwa
 ### UI and Database View
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/df3ab2e1-0188-4a3f-87ca-00b533659c38)
 ![image](https://github.com/HamzaIqbal22/Software-Design-and-Architecture/assets/81776951/3570c3d1-0f69-4019-87c5-b359f5fa1778)
+
+Conclusion
+The project is implemented using various technologies and databases tailored to each microservice's functionality. For instance, the login microservice incorporates GUI management and authentication, while the buy and add book microservices handle book purchasing and addition, respectively, using dedicated databases for each task.
+
+Overall, the project aims to create a user-friendly and efficient online e-bookstore platform, enhancing access to literature and promoting a culture of reading globally.
